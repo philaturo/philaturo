@@ -149,46 +149,13 @@ Approached from a security-first angle — auditing, DeFi safety, and infrastruc
 
 ---
 
-## Roadmap
-
-```
-Go & Systems
- ✅  Fundamentals — algorithms, systems, networking
- ✅  REST APIs — Gin, JWT, OAuth
- ⬜  Advanced concurrency — goroutines, channels, worker pools
-
-Elixir / Phoenix
- ✅  Phoenix framework basics
- 🔄  LiveView, OTP, GenServers
-
-DevOps
- ⬜  Docker — multi-stage builds, Compose, registries
- ⬜  CI/CD — GitHub Actions, pipeline design
- ⬜  Infrastructure as Code — Terraform, Ansible
- ⬜  Kubernetes — orchestration, Helm, namespaces
- ⬜  Observability — Prometheus, Grafana, distributed tracing
-
-Security
- 🔄  Application security — OWASP Top 10, secure Go
- ⬜  Container security — image scanning, runtime policy
- ⬜  Secrets management — Vault, SOPS
- ⬜  Smart contract auditing — Slither, Mythril, Foundry
-
-Distributed Systems & Web3
- ⬜  WebAssembly — WASM modules in Go
- ⬜  Consensus and eventual consistency
- ⬜  EVM, Solidity, DID standards
-```
-
----
-
 ## Connect
 
 | | |
 |:--|:--|
 | **Portfolio** | *Coming soon* |
-| **LinkedIn** | *Add your link* |
-| **Email** | *Add your email* |
+| **LinkedIn** | ** |
+| **Dev.to** | ** |
 | **Zone01 Kisumu** | [zone01kisumu.ke](https://zone01kisumu.ke) |
 
 ---

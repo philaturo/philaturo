@@ -47,6 +47,7 @@ Full Stack DevSecOps engineer and geospatial technologist based in Kisumu, Kenya
 | Security Audit CLI | Static analysis and dependency vulnerability scanner for Go and JS projects. Designed as a CI/CD plugin with SARIF output. | Go · Shell | Planned |
 | Pipeline Security Harness | Hardened CI/CD pipeline templates with SAST, secret scanning, container image signing, and policy enforcement gates. | GitHub Actions · Docker · OPA | Planned |
 | Threat Surface Mapper | Maps the attack surface of a running service: open ports, exposed endpoints, misconfigured headers, TLS grading. | Go · Python | Planned |
+*See also: [Openway](https://github.com/philaturo/openway) — full DevSecOps pipeline applied to Web3 infrastructure. SAST, Trivy container scanning, Cosign signing, Vault injection, and Kubernetes network hardening.*
 
 *DevSecOps projects are being actively designed as the Zone01 specialization progresses.*
 
@@ -92,6 +93,7 @@ Approached from a security-first angle — auditing, DeFi safety, and infrastruc
 
 | Project | Description | Stack | Status |
 |:--------|:------------|:------|:-------|
+| [Openway](https://github.com/philaturo/openway) | Non-custodial B2B cross-border settlement protocol for African mobile money networks. Smart contract escrows, EIP-712 signing, Telco webhook ingestion (M-Pesa/MTN), Kubernetes hardening with Vault secrets injection, and a full DevSecOps CI/CD pipeline — SAST, container scanning, Cosign artifact signing. | Go · Solidity · Foundry · Next.js · PostgreSQL · Redis · Kubernetes · Vault · Prometheus | In Production |
 | Smart Contract Auditor | Static analysis tool for Solidity contracts: reentrancy detection, access control checks, common vulnerability patterns. | Go · Solidity · Slither | Planned |
 | On-chain Payment Rail | Stablecoin payment integration for PESALOCAL — programmable, low-fee transactions for the Kenyan informal economy. | TypeScript · Solidity · EVM | Researching |
 | Decentralized Identity Module | DID-based auth for ZoneBridge — self-sovereign identity for peer verification without a central authority. | Go · W3C DID · IPFS | Planned |

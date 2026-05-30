@@ -132,23 +132,18 @@ Approached from a security-first angle — auditing, DeFi safety, and infrastruc
 
 ## Tech Stack
 
-**Languages** — Go · TypeScript · JavaScript · Python · Elixir · R · SQL · Shell
-
-**Frontend** — React · Vite · Next.js · Phoenix LiveView · Tailwind CSS · MapLibre GL
-
-**Backend & APIs** — Gin · Phoenix · REST · WebSocket · JWT · OAuth 2.0
-
-**Data & Databases** — PostgreSQL · PostGIS · Supabase · Redis · Pinecone · SQLite
-
-**Infrastructure** — Docker · Linux · Git · GitHub Actions · Nginx · Caddy
-
-**Geospatial** — QGIS · GDAL · PostGIS · OpenStreetMap · GRACE satellite data
-
-**AI & ML** — Groq API · Llama 3 · HuggingFace · TensorFlow · Pinecone · RAG pipelines
-
-**Bioinformatics** — 16S/ITS amplicon sequencing · QIIME2 · BLAST · Jupyter
-
-**Exploring** — Kubernetes · Terraform · Ansible · Solidity · WebAssembly
+| | |
+|:--|:--|
+| **Languages** | Go · Solidity · Elixir · TypeScript · JavaScript · Python · R · SQL · Shell |
+| **Frontend** | React · Vite · Next.js · Phoenix LiveView · Tailwind CSS · MapLibre GL · Shadcn/UI |
+| **Backend & APIs** | Gin · Phoenix · REST · WebSockets · JWT · OAuth 2.0 · EIP-712 · OpenAPI |
+| **Databases** | PostgreSQL · PostGIS · Supabase · Redis · Pinecone · SQLite |
+| **DevOps** | Docker · Kubernetes · GitHub Actions · Nginx · Caddy · Linux · Git |
+| **Security** | Semgrep · Slither · Trivy · GitLeaks · Cosign · Vault · OWASP ZAP · Foundry |
+| **Blockchain** | Solidity · Foundry · OpenZeppelin · EIP-712 · Viem · Celo |
+| **Geospatial** | PostGIS · QGIS · GDAL · OpenStreetMap · MapLibre GL |
+| **AI & ML** | Groq API · Llama 3 · HuggingFace · Pinecone · TensorFlow · RAG Pipelines |
+| **In Progress** | Terraform · Ansible · AWS · Helm · WebAssembly |
 
 ---
 

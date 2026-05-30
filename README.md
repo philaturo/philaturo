@@ -47,8 +47,8 @@ Full Stack DevSecOps engineer and geospatial technologist based in Kisumu, Kenya
 | Security Audit CLI | Static analysis and dependency vulnerability scanner for Go and JS projects. Designed as a CI/CD plugin with SARIF output. | Go · Shell | Planned |
 | Pipeline Security Harness | Hardened CI/CD pipeline templates with SAST, secret scanning, container image signing, and policy enforcement gates. | GitHub Actions · Docker · OPA | Planned |
 | Threat Surface Mapper | Maps the attack surface of a running service: open ports, exposed endpoints, misconfigured headers, TLS grading. | Go · Python | Planned |
-*See also: [Openway](https://github.com/philaturo/openway) — full DevSecOps pipeline applied to Web3 infrastructure. SAST, Trivy container scanning, Cosign signing, Vault injection, and Kubernetes network hardening.*
 
+*See also: [Openway](https://github.com/philaturo/openway) — full DevSecOps pipeline applied to Web3 infrastructure. SAST, Trivy container scanning, Cosign signing, Vault injection, and Kubernetes network hardening.*
 *DevSecOps projects are being actively designed as the Zone01 specialization progresses.*
 
 ---

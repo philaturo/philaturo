@@ -49,6 +49,7 @@ Full Stack DevSecOps engineer and geospatial technologist based in Kisumu, Kenya
 | Threat Surface Mapper | Maps the attack surface of a running service: open ports, exposed endpoints, misconfigured headers, TLS grading. | Go · Python | Planned |
 
 *See also: [Openway](https://github.com/philaturo/openway) — full DevSecOps pipeline applied to Web3 infrastructure. SAST, Trivy container scanning, Cosign signing, Vault injection, and Kubernetes network hardening.*
+
 *DevSecOps projects are being actively designed as the Zone01 specialization progresses.*
 
 ---

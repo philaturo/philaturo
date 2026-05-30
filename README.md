@@ -31,7 +31,7 @@ Full Stack DevSecOps engineer and geospatial technologist based in Kisumu, Kenya
 
 | Project | Description | Stack | Status |
 |:--------|:------------|:------|:-------|
-| [ZoneBridge](https://github.com/philaturo/zonebridge) | Peer knowledge network for Zone01 apprentices. Skill-based help matching, project post-mortems, real-time presence. JWT auth, OAuth via Gitea. | Go · Gin · React · TypeScript · PostgreSQL · WebSocket | In Progress |
+| [ZoneBridge](https://github.com/philaturo/zonebridge) | Peer knowledge network for Zone01 apprentices. Skill-based help matching, project post-mortems, real-time presence. JWT auth, OAuth via Gitea. | Go · Gin · React · TypeScript · PostgreSQL · WebSocket | Live |
 | [Mtaani](https://github.com/philaturo/Mtaani) | AI-powered responsible tourism platform for Kenya. Real-time safety monitoring, verified local businesses, geospatial routing, RAG-powered recommendations. | Elixir · Phoenix · LiveView · PostGIS · Groq · MapLibre · Redis | In Progress |
 | [PESALOCAL](https://github.com/philaturo/PESALOCAL) | Financial tooling for local businesses in Kenya. Exploring a lightweight SaaS layer for the informal economy. | TypeScript | Early Stage |
 | [Mtaa Guide](https://github.com/philaturo/Mtaa-Guide) | Original local guide prototype — predecessor to Mtaani. | — | Archived |

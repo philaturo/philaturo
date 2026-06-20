@@ -97,6 +97,7 @@ Approached from a security-first angle — auditing, DeFi safety, and infrastruc
 | Smart Contract Auditor | Static analysis tool for Solidity contracts: reentrancy detection, access control checks, common vulnerability patterns. | Go · Solidity · Slither | Planned |
 | On-chain Payment Rail | Stablecoin payment integration for PESALOCAL — programmable, low-fee transactions for the Kenyan informal economy. | TypeScript · Solidity · EVM | Researching |
 | Decentralized Identity Module | DID-based auth for ZoneBridge — self-sovereign identity for peer verification without a central authority. | Go · W3C DID · IPFS | Planned |
+| [meshguard](https://github.com/philaturo/meshguard.git). | Offline transaction co-ordination middleware for lightning network channels. | Go . Typescript . | Pre-launch |
 
 ---
 

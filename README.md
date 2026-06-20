@@ -120,7 +120,7 @@ Approached from a security-first angle — auditing, DeFi safety, and infrastruc
 
 ---
 
-## Bioinformatics & Research
+## Geospatial & Research
 
 | Project | Description | Stack | Status |
 |:--------|:------------|:------|:-------|

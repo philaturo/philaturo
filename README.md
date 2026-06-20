@@ -21,7 +21,7 @@ Full Stack DevSecOps engineer and geospatial technologist based in Kisumu, Kenya
 | | |
 |:--|:--|
 | **Apprenticeship** | Zone01 Kisumu — Go, JavaScript, Python · DevOps specialization |
-| **Active Builds** | ZoneBridge · Mtaani · Quorix (PaaS, in design) |
+| **Active Builds** | ZoneBridge · Mtaani · Wails Deck (PaaS, in design) |
 | **Specialization Track** | Container orchestration · CI/CD · Infrastructure as Code |
 | **Open to** | Collaborations · Open source · Freelance DevSecOps work |
 

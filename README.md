@@ -120,15 +120,6 @@ Approached from a security-first angle — auditing, DeFi safety, and infrastruc
 
 ---
 
-## Geospatial & Research
-
-| Project | Description | Stack | Status |
-|:--------|:------------|:------|:-------|
-| [Potato Pathogen Mapping](https://github.com/philaturo/Potato_Pathogen) | Amplicon sequencing analysis (16S + ITS) for pathogen detection and regional hotspot mapping across 14 Eritrean sub-regions. Client-delivered research. | Python · Jupyter · R | Delivered |
-| [Kenya Groundwater Study](https://github.com/philaturo/INTEGRATED-ASSESSMENT-OF-GROUNDWATER-RESOURCES-AND-DEPLETION-TRENDS-IN-KENYA-USING-GRACE-AND-GLDAS) | Satellite-based groundwater depletion assessment using GRACE + GLDAS. TensorFlow ML pipeline for trend classification. | R · Python · TensorFlow | Published |
-
----
-
 ## Tech Stack
 
 | | |

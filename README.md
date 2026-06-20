@@ -94,10 +94,11 @@ Approached from a security-first angle — auditing, DeFi safety, and infrastruc
 | Project | Description | Stack | Status |
 |:--------|:------------|:------|:-------|
 | [Openway](https://github.com/philaturo/openway) | Non-custodial B2B cross-border settlement protocol for African mobile money networks. Smart contract escrows, EIP-712 signing, Telco webhook ingestion (M-Pesa/MTN), Kubernetes hardening with Vault secrets injection, and a full DevSecOps CI/CD pipeline — SAST, container scanning, Cosign artifact signing. | Go · Solidity · Foundry · Next.js · PostgreSQL · Redis · Kubernetes · Vault · Prometheus | Pre-Launch|
+| [meshguard](https://github.com/philaturo/meshguard.git). | Offline transaction co-ordination middleware for lightning network channels. | Go . Typescript | Pre-launch |
 | Smart Contract Auditor | Static analysis tool for Solidity contracts: reentrancy detection, access control checks, common vulnerability patterns. | Go · Solidity · Slither | Planned |
 | On-chain Payment Rail | Stablecoin payment integration for PESALOCAL — programmable, low-fee transactions for the Kenyan informal economy. | TypeScript · Solidity · EVM | Researching |
 | Decentralized Identity Module | DID-based auth for ZoneBridge — self-sovereign identity for peer verification without a central authority. | Go · W3C DID · IPFS | Planned |
-| [meshguard](https://github.com/philaturo/meshguard.git). | Offline transaction co-ordination middleware for lightning network channels. | Go . Typescript . | Pre-launch |
+
 
 ---
 

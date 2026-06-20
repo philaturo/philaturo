@@ -105,8 +105,7 @@ Approached from a security-first angle — auditing, DeFi safety, and infrastruc
 | Project | Description | Role | Status |
 |:--------|:------------|:-----|:-------|
 | [Zoea Open Source](https://github.com/philaturo/zoea-opensource) | A guide to learning open source contribution professionally — co-maintained with the original author. | Contributor | Active |
-| [Elixir Learning Journey](https://github.com/philaturo/Elixir-projects) | Documented Elixir progression: Phoenix LiveView, OTP, GenServers, concurrency patterns. | Author | Ongoing |
-| Quorix | Open source PaaS platform — all development public from day one. | Author | In Design |
+| Wails Deck | Open source PaaS platform — all development public from day one. | Author | In Design |
 
 ---
 

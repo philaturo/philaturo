@@ -58,7 +58,7 @@ Full Stack DevSecOps engineer and geospatial technologist based in Kisumu, Kenya
 | Project | Description | Stack | Status |
 |:--------|:------------|:------|:-------|
 | [Zone01 Projects](https://github.com/philaturo/zone01-projects) | Training projects from Zone01 Kisumu: algorithms, systems programming, networking challenges, Go exercises. | Go | Active |
-| Quorix | Open source application deployment platform. Developer-first PaaS — self-hostable, git-push deploys, environment management, logs, metrics. Built in the open from day one. | Go · TBD | In Design |
+| Wails Deck | Open source application deployment platform. Developer-first PaaS — self-hostable, git-push deploys, environment management, logs, metrics. Built in the open from day one. | Go · TBD | In Design |
 | IaC Starter Templates | Infrastructure-as-code templates for common setups: VPS hardening, reverse proxy configs, monitoring stacks. | Terraform · Ansible · Docker | Planned |
 | Observability Board | Lightweight self-hosted status page with latency tracking, alert routing, and incident timelines. | Go · Prometheus · Grafana | Planned |
 

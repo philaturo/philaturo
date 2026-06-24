@@ -34,7 +34,7 @@ Offline transaction coordination middleware for Lightning Network channels — p
 
 ---
 
-### Secure Notes API
+### [Secure Notes API](https://github.com/philaturo/secure-notes-api.git)
 Production-grade Notes API demonstrating secure software development practices end to end — from source control to Kubernetes deployment.
 
 **Stack:** Go · PostgreSQL · Docker · Kubernetes · Vault

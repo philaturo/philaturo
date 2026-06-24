@@ -2,9 +2,9 @@
 
 # Phil Aturo
 
-**Full Stack Engineer · DevSecOps · Geospatial Intelligence · Open Source**
+**Full Stack Engineer · DevSecOps · Infrastructure & Geospatial Systems**
 
-*Building systems that are secure by design, intelligent by nature, and grounded in the real world.*
+*Building secure platforms, payment infrastructure, developer tools, and intelligent systems.*
 
 </div>
 
@@ -12,129 +12,115 @@
 
 ## About
 
-Full Stack DevSecOps engineer and geospatial technologist based in Kisumu, Kenya. Currently on an intensive apprenticeship at **Zone01 Kisumu** — writing Go, JavaScript, and Python with a DevOps specialization track. My background in GIS gives me an uncommon lens: I think about systems spatially, about data as terrain, and about security as a perimeter problem at every layer.
+Full Stack Engineer and DevSecOps practitioner based in Kisumu, Kenya. Currently undertaking a software engineering apprenticeship at **Zone01 Kisumu**, specializing in Go, distributed systems, container orchestration, CI/CD, and secure software delivery.
+
+My background in Geographic Information Systems (GIS) and remote sensing shapes how I approach engineering: systems as networks, data as terrain, and security as a foundational concern rather than an afterthought.
 
 ---
 
-## Status
+## Featured Projects
 
-| | |
-|:--|:--|
-| **Apprenticeship** | Zone01 Kisumu — Go, JavaScript, Python · DevOps specialization |
-| **Active Builds** | ZoneBridge · Mtaani · Wails Deck (PaaS, in design) |
-| **Specialization Track** | Container orchestration · CI/CD · Infrastructure as Code |
-| **Open to** | Collaborations · Open source · Freelance DevSecOps work |
+### [WailDeck](https://github.com/philaturo/waildeck)
+Self-hosted application deployment platform focused on simplifying application delivery and infrastructure management.
+
+**Stack:** Go · Docker · Kubernetes · PostgreSQL
 
 ---
 
-## Full Stack Web
+### [MeshGuard](https://github.com/philaturo/meshguard)
+Offline transaction coordination middleware for Lightning Network channels — preserves payment intent, queues events during outages, and reconciles state once connectivity returns. Validated on Bitcoin Regtest with live Bitcoin Core and LND nodes.
 
-| Project | Description | Stack | Status |
-|:--------|:------------|:------|:-------|
-| [ZoneBridge](https://github.com/philaturo/zonebridge) | Peer knowledge network for Zone01 apprentices. Skill-based help matching, project post-mortems, real-time presence. JWT auth, OAuth via Gitea. | Go · Gin · React · TypeScript · PostgreSQL · WebSocket | Live |
-| [Mtaani](https://github.com/philaturo/Mtaani) | AI-powered responsible tourism platform for Kenya. Real-time safety monitoring, verified local businesses, geospatial routing, RAG-powered recommendations. | Elixir · Phoenix · LiveView · PostGIS · Groq · MapLibre · Redis | In Progress |
-| [PESALOCAL](https://github.com/philaturo/PESALOCAL) | Financial tooling for local businesses in Kenya. Exploring a lightweight SaaS layer for the informal economy. | TypeScript | Early Stage |
+**Stack:** Go · TypeScript · Bitcoin Core · LND
 
 ---
 
-## Security & DevSecOps
+### Secure Notes API
+Production-grade Notes API demonstrating secure software development practices end to end — from source control to Kubernetes deployment.
 
-> Security isn't a feature — it's the architecture.
-
-| Project | Description | Stack | Status |
-|:--------|:------------|:------|:-------|
-| Security Audit CLI | Static analysis and dependency vulnerability scanner for Go and JS projects. Designed as a CI/CD plugin with SARIF output. | Go · Shell | Planned |
-| Pipeline Security Harness | Hardened CI/CD pipeline templates with SAST, secret scanning, container image signing, and policy enforcement gates. | GitHub Actions · Docker · OPA | Planned |
-| Threat Surface Mapper | Maps the attack surface of a running service: open ports, exposed endpoints, misconfigured headers, TLS grading. | Go · Python | Planned |
-
-*See also: [Openway](https://github.com/philaturo/openway) — full DevSecOps pipeline applied to Web3 infrastructure. SAST, Trivy container scanning, Cosign signing, Vault injection, and Kubernetes network hardening.*
-
-*DevSecOps projects are being actively designed as the Zone01 specialization progresses.*
+**Stack:** Go · PostgreSQL · Docker · Kubernetes · Vault
 
 ---
 
-## DevOps & Infrastructure
+### [Openway](https://github.com/philaturo/openway)
+Non-custodial cross-border settlement infrastructure for African mobile money networks. Smart contract escrows, EIP-712 signing, Telco webhook ingestion, and a hardened CI/CD pipeline with Vault secrets injection and Cosign artifact signing.
 
-| Project | Description | Stack | Status |
-|:--------|:------------|:------|:-------|
-| [Zone01 Projects](https://github.com/philaturo/zone01-projects) | Training projects from Zone01 Kisumu: algorithms, systems programming, networking challenges, Go exercises. | Go | Active |
-| Wails Deck | Open source application deployment platform. Developer-first PaaS — self-hostable, git-push deploys, environment management, logs, metrics. Built in the open from day one. | Go · TBD | In Design |
-| IaC Starter Templates | Infrastructure-as-code templates for common setups: VPS hardening, reverse proxy configs, monitoring stacks. | Terraform · Ansible · Docker | Planned |
-| Observability Board | Lightweight self-hosted status page with latency tracking, alert routing, and incident timelines. | Go · Prometheus · Grafana | Planned |
+**Stack:** Go · Solidity · PostgreSQL · Redis · Kubernetes
 
 ---
 
-## Geospatial & Earth Intelligence
+### [ZoneBridge](https://github.com/philaturo/zonebridge)
+Peer knowledge network built for Zone01 apprentices, featuring real-time collaboration, OAuth authentication, and presence awareness.
 
-A background in GIS and remote sensing that most engineers in this space don't have.
-
-| Project | Description | Stack | Status |
-|:--------|:------------|:------|:-------|
-| [Groundwater GRACE/GLDAS Analysis](https://github.com/philaturo/INTEGRATED-ASSESSMENT-OF-GROUNDWATER-RESOURCES-AND-DEPLETION-TRENDS-IN-KENYA-USING-GRACE-AND-GLDAS) | Undergraduate thesis: groundwater depletion trends in Kenya using GRACE satellite gravimetry and GLDAS land surface models. ML-powered hotspot classification. | R · Python · TensorFlow · QGIS | Published |
-| [Potato Pathogen Detector](https://github.com/philaturo/Potato_Pathogen) | Client project: 16S and ITS amplicon sequencing for pathogen detection and diversity analysis across 14 sub-regions in Eritrea. Geospatial hotspot mapping of infection clusters. | Python · Jupyter · R | Delivered |
-| Geospatial DevOps Toolkit | CLI tools for automating geospatial data pipelines: raster processing, tile generation, spatial query runners — designed for CI/CD integration. | Go · GDAL · PostGIS | Planned |
+**Stack:** Go · Gin · React · TypeScript · PostgreSQL · WebSockets
 
 ---
 
-## AI & Automation
+### [Mtaani](https://github.com/philaturo/Mtaani)
+AI-powered tourism and location intelligence platform combining geospatial analysis, local discovery, and retrieval-augmented generation.
 
-| Project | Description | Stack | Status |
-|:--------|:------------|:------|:-------|
-| [DR777 Assistant](https://github.com/philaturo/DR777assistant) | Personal coding assistant experiment. Local LLM integration research and prompt engineering. Inspired by Claude. | Python · Local LLM | Exploring |
-| Mtaani AI Core | RAG-powered travel and safety recommendations embedded in Mtaani. Groq API with Llama 3, HuggingFace embeddings, Pinecone vector store. | Elixir · Groq · Pinecone · HuggingFace | In Progress |
-| Agentic DevOps Bot | AI agent that monitors CI/CD pipelines, triages failures, and suggests or auto-applies fixes. Integrates with Slack/Discord for alerts. | Python · LLM APIs · GitHub API | Planned |
-| IaC Generator | Describe your infrastructure in plain English; get production-ready Terraform or Docker Compose output. | Go · LLM APIs | Planned |
-
----
-
-## Blockchain & Web3
-
-Approached from a security-first angle — auditing, DeFi safety, and infrastructure over speculation.
-
-| Project | Description | Stack | Status |
-|:--------|:------------|:------|:-------|
-| [Openway](https://github.com/philaturo/openway) | Non-custodial B2B cross-border settlement protocol for African mobile money networks. Smart contract escrows, EIP-712 signing, Telco webhook ingestion (M-Pesa/MTN), Kubernetes hardening with Vault secrets injection, and a full DevSecOps CI/CD pipeline — SAST, container scanning, Cosign artifact signing. | Go · Solidity · Foundry · Next.js · PostgreSQL · Redis · Kubernetes · Vault · Prometheus | Pre-Launch|
-| [meshguard](https://github.com/philaturo/meshguard.git). | Offline transaction co-ordination middleware for lightning network channels. | Go . Typescript | Pre-launch |
-| Smart Contract Auditor | Static analysis tool for Solidity contracts: reentrancy detection, access control checks, common vulnerability patterns. | Go · Solidity · Slither | Planned |
-| On-chain Payment Rail | Stablecoin payment integration for PESALOCAL — programmable, low-fee transactions for the Kenyan informal economy. | TypeScript · Solidity · EVM | Researching |
-| Decentralized Identity Module | DID-based auth for ZoneBridge — self-sovereign identity for peer verification without a central authority. | Go · W3C DID · IPFS | Planned |
-
+**Stack:** Elixir · Phoenix · PostGIS · Redis · Groq · MapLibre
 
 ---
 
 ## Open Source
 
-| Project | Description | Role | Status |
-|:--------|:------------|:-----|:-------|
-| [Zoea Open Source](https://github.com/philaturo/zoea-opensource) | A guide to learning open source contribution professionally — co-maintained with the original author. | Contributor | Active |
-| Wails Deck | Open source PaaS platform — all development public from day one. | Author | In Design |
+| Project | Role |
+|:--------|:-----|
+| [Zoea Open Source](https://github.com/philaturo/zoea-opensource) | Contributor |
+| [WailDeck](https://github.com/philaturo/waildeck) | Author |
+| [MeshGuard](https://github.com/philaturo/meshguard) | Author |
 
 ---
 
-## SaaS & Commercial
+## Technical Stack
 
-| Project | Description | Stack | Status |
-|:--------|:------------|:------|:-------|
-| Logistics SaaS *(Codename TBD)* | Transport logistics management platform for a Kenyan operator. Route optimization, fleet tracking, delivery coordination. | TBD | Scoping |
-| [PESALOCAL](https://github.com/philaturo/PESALOCAL) | Financial management and payments for informal Kenyan businesses. Potential fintech SaaS evolution. | TypeScript | Early Stage |
-| [Mtaani](https://github.com/philaturo/Mtaani) | AI tourism platform with B2B potential for tour operators, local government, and travel agencies. | Elixir · PostGIS · AI | In Progress |
+**Languages**
+Go · TypeScript · JavaScript · Python · Elixir · Solidity · SQL · R
+
+**Backend**
+Gin · Phoenix · REST APIs · WebSockets · OAuth 2.0 · JWT
+
+**Frontend**
+React · Next.js · Phoenix LiveView · Tailwind CSS
+
+**Databases**
+PostgreSQL · PostGIS · Redis · SQLite · Supabase
+
+**DevOps**
+Docker · Kubernetes · GitHub Actions · Linux · Nginx · Caddy
+
+**Security**
+Vault · Trivy · Semgrep · GitLeaks · Cosign · OWASP ZAP · Slither · Foundry
+
+**AI & Data**
+Groq · Llama · HuggingFace · Pinecone · TensorFlow · RAG Pipelines
+
+**Geospatial**
+PostGIS · GDAL · QGIS · OpenStreetMap · MapLibre
 
 ---
 
-## Tech Stack
+## Research
 
-| | |
-|:--|:--|
-| **Languages** | Go · Solidity · Elixir · TypeScript · JavaScript · Python · R · SQL · Shell |
-| **Frontend** | React · Vite · Next.js · Phoenix LiveView · Tailwind CSS · MapLibre GL · Shadcn/UI |
-| **Backend & APIs** | Gin · Phoenix · REST · WebSockets · JWT · OAuth 2.0 · EIP-712 · OpenAPI |
-| **Databases** | PostgreSQL · PostGIS · Supabase · Redis · Pinecone · SQLite |
-| **DevOps** | Docker · Kubernetes · GitHub Actions · Nginx · Caddy · Linux · Git |
-| **Security** | Semgrep · Slither · Trivy · GitLeaks · Cosign · Vault · OWASP ZAP · Foundry |
-| **Blockchain** | Solidity · Foundry · OpenZeppelin · EIP-712 · Viem · Celo |
-| **Geospatial** | PostGIS · QGIS · GDAL · OpenStreetMap · MapLibre GL |
-| **AI & ML** | Groq API · Llama 3 · HuggingFace · Pinecone · TensorFlow · RAG Pipelines |
-| **In Progress** | Terraform · Ansible · AWS · Helm · WebAssembly |
+### [Groundwater Resource Analysis in Kenya](https://github.com/philaturo/INTEGRATED-ASSESSMENT-OF-GROUNDWATER-RESOURCES-AND-DEPLETION-TRENDS-IN-KENYA-USING-GRACE-AND-GLDAS)
+Integrated assessment of groundwater depletion trends using GRACE satellite gravimetry and GLDAS land surface models.
+
+**Stack:** R · Python · TensorFlow · QGIS
+
+### [Potato Pathogen Detection and Spatial Analysis](https://github.com/philaturo/Potato_Pathogen)
+Amplicon sequencing and geospatial hotspot mapping of pathogen distribution across agricultural regions in Eritrea.
+
+**Stack:** Python · R · Jupyter
+
+---
+
+## Current Focus
+
+- Platform Engineering
+- DevSecOps
+- Payment Infrastructure
+- AI Systems
+- Open Source Software
 
 ---
 
@@ -142,15 +128,15 @@ Approached from a security-first angle — auditing, DeFi safety, and infrastruc
 
 | | |
 |:--|:--|
-| **Portfolio** | *Coming soon* |
-| **LinkedIn** | ** |
-| **Dev.to** | ** |
+| **Email** | aturophil09@gmail.com |
+| **LinkedIn** | [linkedin.com/in/aturo-phil-4b2a122a7](https://www.linkedin.com/in/aturo-phil-4b2a122a7) |
+| **Dev.to** | [dev.to/aturo_phil](https://dev.to/aturo_phil) |
 | **Zone01 Kisumu** | [zone01kisumu.ke](https://zone01kisumu.ke) |
 
 ---
 
 <div align="center">
 
-*Currently apprentice → next stop: engineer.*
+*Building systems that are secure by design, intelligent by nature, and grounded in the real world.*
 
 </div>

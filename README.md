@@ -107,7 +107,7 @@ Integrated assessment of groundwater depletion trends using GRACE satellite grav
 
 **Stack:** R · Python · TensorFlow · QGIS
 
-### [DADA2 pipeline amplicon analysis](https://github.com/philaturo/Potato_Pathogen)
+### [DADA2 pipeline amplicon sequence analysis](https://github.com/philaturo/Potato_Pathogen)
 Amplicon sequencing and geospatial hotspot mapping of pathogen distribution across agricultural regions in Eritrea.
 
 **Stack:** Python · R · Jupyter

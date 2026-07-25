@@ -2,9 +2,9 @@
 
 # Phil Aturo
 
-**Full Stack Engineer · DevSecOps · Infrastructure & Geospatial Systems**
+**Software Engineer · Backend · Distributed Systems · Infrastructure Engineering**
 
-*Building secure platforms, payment infrastructure, developer tools, and intelligent systems.*
+*Building reliable software systems through thoughtful engineering.*
 
 </div>
 
@@ -12,131 +12,60 @@
 
 ## About
 
-Full Stack Engineer and DevSecOps practitioner based in Kisumu, Kenya. Currently undertaking a software engineering apprenticeship at **Zone01 Kisumu**, specializing in Go, distributed systems, container orchestration, CI/CD, and secure software delivery.
+I'm a Software Engineer based in Kisumu, Kenya, currently undertaking a software engineering apprenticeship at **Zone01 Kisumu**.
 
-My background in Geographic Information Systems (GIS) and remote sensing shapes how I approach engineering: systems as networks, data as terrain, and security as a foundational concern rather than an afterthought.
+My work centers on backend engineering, distributed systems, infrastructure engineering, platform development, and DevSecOps. Before transitioning into software engineering, I worked in Geographic Information Systems (GIS) and remote sensing. That background continues to shape how I approach software design—viewing systems as interconnected networks, data as evolving state, and reliability as an architectural requirement rather than an implementation detail.
 
----
-
-## Featured Projects
-
-### [WailDeck](https://github.com/philaturo/waildeck)
-Self-hosted application deployment platform focused on simplifying application delivery and infrastructure management.
-
-**Stack:** Go · Docker · Kubernetes · PostgreSQL
+I enjoy designing software that prioritizes simplicity, resilience, maintainability, and long-term evolution over unnecessary complexity.
 
 ---
 
-### [MeshGuard](https://github.com/philaturo/meshguard)
-Offline transaction coordination middleware for Lightning Network channels — preserves payment intent, queues events during outages, and reconciles state once connectivity returns. Validated on Bitcoin Regtest with live Bitcoin Core and LND nodes.
+## Engineering Interests
 
-**Stack:** Go · TypeScript · Bitcoin Core · LND
-
----
-
-### [Secure Notes API](https://github.com/philaturo/secure-notes-api.git)
-Production-grade Notes API demonstrating secure software development practices end to end — from source control to Kubernetes deployment.
-
-**Stack:** Go · PostgreSQL · Docker · Kubernetes · Vault
+My engineering interests span the design and implementation of reliable software systems, with a particular focus on backend engineering, distributed systems, infrastructure engineering, platform development, DevSecOps, financial infrastructure, developer tooling, and open-source software. I enjoy exploring how these disciplines intersect to build systems that remain dependable under real-world conditions.
 
 ---
 
-### [Openway](https://github.com/philaturo/openway)
-Non-custodial cross-border settlement infrastructure for African mobile money networks. Smart contract escrows, EIP-712 signing, Telco webhook ingestion, and a hardened CI/CD pipeline with Vault secrets injection and Cosign artifact signing.
+## Technical Areas
 
-**Stack:** Go · Solidity · PostgreSQL · Redis · Kubernetes
+My primary programming language is **Go**, complemented by experience with **TypeScript**, **JavaScript**, **Python**, and **SQL**.
 
----
+My work primarily involves designing backend services, RESTful APIs, concurrent systems, authentication and authorization workflows, and distributed architectures. Alongside application development, I work with modern infrastructure technologies including Linux, Docker, Kubernetes, GitHub Actions, and continuous integration and delivery pipelines.
 
-### [ZoneBridge](https://github.com/philaturo/zonebridge)
-Peer knowledge network built for Zone01 apprentices, featuring real-time collaboration, OAuth authentication, and presence awareness.
-
-**Stack:** Go · Gin · React · TypeScript · PostgreSQL · WebSockets
-
----
-
-### [Mtaani](https://github.com/philaturo/Mtaani)
-AI-powered tourism and location intelligence platform combining geospatial analysis, local discovery, and retrieval-augmented generation.
-
-**Stack:** Elixir · Phoenix · PostGIS · Redis · Groq · MapLibre
-
----
-
-## Open Source
-
-| Project | Role |
-|:--------|:-----|
-| [Zoea Open Source](https://github.com/philaturo/zoea-opensource) | Contributor |
-| [WailDeck](https://github.com/philaturo/waildeck) | Author |
-| [MeshGuard](https://github.com/philaturo/meshguard) | Author |
-
----
-
-## Technical Stack
-
-**Languages**
-Go · TypeScript · JavaScript · Python · Elixir · Solidity · SQL · R
-
-**Backend**
-Gin · Phoenix · REST APIs · WebSockets · OAuth 2.0 · JWT
-
-**Frontend**
-React · Next.js · Phoenix LiveView · Tailwind CSS
-
-**Databases**
-PostgreSQL · PostGIS · Redis · SQLite · Supabase
-
-**DevOps**
-Docker · Kubernetes · GitHub Actions · Linux · Nginx · Caddy
-
-**Security**
-Vault · Trivy · Semgrep · GitLeaks · Cosign · OWASP ZAP · Slither · Foundry
-
-**AI & Data**
-Groq · Llama · HuggingFace · Pinecone · TensorFlow · RAG Pipelines
-
-**Geospatial**
-PostGIS · GDAL · QGIS · OpenStreetMap · MapLibre
-
----
-
-## Research
-
-### [Groundwater Resource Analysis in Kenya](https://github.com/philaturo/INTEGRATED-ASSESSMENT-OF-GROUNDWATER-RESOURCES-AND-DEPLETION-TRENDS-IN-KENYA-USING-GRACE-AND-GLDAS)
-Integrated assessment of groundwater depletion trends using GRACE satellite gravimetry and GLDAS land surface models.
-
-**Stack:** R · Python · TensorFlow · QGIS
-
-### [DADA2 pipeline amplicon sequence analysis](https://github.com/philaturo/Potato_Pathogen)
-Amplicon sequencing and geospatial hotspot mapping of pathogen distribution across agricultural regions in Eritrea.
-
-**Stack:** Python · R · Jupyter
+I have practical experience with PostgreSQL, Redis, and SQLite, and maintain a strong interest in secure software engineering, API security, infrastructure hardening, and DevSecOps practices that integrate security throughout the software development lifecycle.
 
 ---
 
 ## Current Focus
 
-- Platform Engineering
-- DevSecOps
-- Payment Infrastructure
-- AI Systems
-- Open Source Software
+I am currently focused on strengthening my expertise in backend engineering, distributed systems, and infrastructure engineering while building production-quality software that emphasizes reliability, maintainability, and security. Alongside implementation work, I continue investing in software architecture, technical documentation, open-source contributions, and long-term engineering practices that scale with evolving systems.
 
 ---
 
-## Connect
+## Engineering Philosophy
 
-| | |
-|:--|:--|
-| **Email** | aturophil09@gmail.com |
-| **LinkedIn** | [linkedin.com/in/aturo-phil-4b2a122a7](https://www.linkedin.com/in/aturo-phil-4b2a122a7) |
-| **Dev.to** | [dev.to/aturo_phil](https://dev.to/aturo_phil) |
-| **Zone01 Kisumu** | [zone01kisumu.ke](https://zone01kisumu.ke) |
+I believe good engineering is measured by the reliability of the systems it produces rather than the complexity of the technologies it uses.
+
+Well-designed software should be understandable, maintainable, secure by design, and resilient under changing conditions. Thoughtful architecture, disciplined implementation, and continuous learning create systems that remain valuable long after the technologies surrounding them evolve.
+
+Technology changes rapidly; sound engineering principles endure.
+
+---
+
+## Find Me
+
+| Platform | Link |
+|:---------|:-----|
+| Portfolio | https://philaturo.github.io |
+| GitHub | https://github.com/PhilAturo |
+| LinkedIn | https://www.linkedin.com/in/aturo-phil-4b2a122a7 |
+| Hashnode | https://hashnode.com/@aturo-phil |
+| Email | aturophil641@gmail.com |
 
 ---
 
 <div align="center">
 
-*Building systems that are secure by design, intelligent by nature, and grounded in the real world.*
+*"Building reliable software systems through thoughtful engineering."*
 
 </div>
